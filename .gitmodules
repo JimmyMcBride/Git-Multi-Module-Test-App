@@ -1,0 +1,3 @@
+[submodule "Git-Dynamic-Feature-Module-Test-App"]
+	path = Git-Dynamic-Feature-Module-Test-App
+	url = git@github.com:JimmyMcBride/Git-Dynamic-Feature-Module-Test-App.git

@@ -24,5 +24,14 @@
         <action
             android:id="@+id/action_SecondFragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
+        <action
+            android:id="@+id/action_SecondFragment_to_ComposeActivity"
+            app:destination="@id/ComposeActivity" />
     </fragment>
+
+    <activity
+        android:id="@+id/ComposeActivity"
+        android:name="com.rave.gitdynamicfeaturemoduletestapp.ComposeActivity">
+
+    </activity>
 </navigation>
